@@ -2,8 +2,10 @@
 Text analysis of VIRA datasets regarding the COVID-19 vaccination in the UK.
 
 <i>As this analysis was created using Google CoLab, allowing all code chunks to be viewed and executed, I have provided the overview below, as well as a link to view the analysis as a html file.</i>
+© Denneya Muscat, 2023
 
 ## Natural Language Processing Application
+[Read the full analysis here!](https://drive.google.com/file/d/1awp1yW3JPmL4KiM_3KgiPXqb2Z6Ae0uO/view?usp=sharing)
 ### Overview
 
 This markdown uses data collected from the Vaccine Information Resource Assistance (VIRA), release by IBM research. There are two datasets which differ slightly in terms of their use. Both datasets will be used in order to identify any insights or important attributes from the chat bot (VIRA) regarding COVID-19 vaccine hesitancy and people's overall trust of the vaccine.
@@ -54,4 +56,7 @@ arXiv, 2022
 Shai Gretz, Assaf Toledo, Roni Friedman, Dan Lahav, Rose Weeks, Naor Bar-Zeev, João Sedoc, Pooja Sangha, Yoav Katz, Noam Slonim
 arXiv, 2022
 
-Read the full analysis here!
+[Read the full analysis here!](https://drive.google.com/file/d/1awp1yW3JPmL4KiM_3KgiPXqb2Z6Ae0uO/view?usp=sharing)
+
+© Denneya Muscat, 2023
+
